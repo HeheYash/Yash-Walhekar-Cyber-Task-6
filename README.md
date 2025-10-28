@@ -14,18 +14,21 @@ I generated three passwords of different degrees of complexity and analyzed them
 * **Password:** `123456789`
 * **Strength Score & Analysis:** The score of this password is 4% and the password is very weak. The picture of the screen displays that it just contains numbers only (Numbers Only). It fails to do this when it has deductions on Consecutive Numbers and Sequential Numbers and thus this makes it very predictable and easy to crack with basic brute force script.
 * **Screenshot:**
+
     ![Result for weak password](Weak.png)
 
 #### Password 2: Medium
 * **Password:** `Internship_task`
 * **Strength Score & Analysis:** This is a 54% password that is rated as Good. It is very much in length (15 characters) and contains both uppercase and lower case letters. But it has absolutely no numbers and symbols, and this is the reason why it does not gain more points. The tool also deduced heavily on the consecutive letters in lower case meaning that most probably a common word or pattern was followed.
 * **Screenshot:**
+
     ![Result for medium password](Medium.png)
 
 #### Password 3: Strong
 * **Password:** `Internship_task_5$`
 * **Strength Score & Analysis:** The score of this password is a 100 and is considered to be a very strong password. It is superb in every category: it is very long (18 characters), it contains upper and lower case letters, number and symbols. It effectively addresses every need and manages to circumvent the traps such as sequential or repeating characters that could render it quite vulnerability to assaults.
 * **Screenshot:**
+
     ![Result for strong password](Strong.png)
 
 ### 2. How Password Complexity Affects Security
